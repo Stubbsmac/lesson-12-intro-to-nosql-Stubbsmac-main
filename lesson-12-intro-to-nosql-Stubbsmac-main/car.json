@@ -1,0 +1,18 @@
+[
+    {"_id": "car001", "make": "Toyota", "model": "Camry", "year": 2022, "license_plate": "XYZ001", "status": "available", "current_location": "loc001", "maintenance_history": []},
+    {"_id": "car002", "make": "Honda", "model": "Civic", "year": 2023, "license_plate": "XYZ002", "status": "rented", "current_location": "loc002", "maintenance_history": []},
+    {"_id": "car003", "make": "Ford", "model": "Focus", "year": 2021, "license_plate": "XYZ003", "status": "available", "current_location": "loc003", "maintenance_history": []},
+    {"_id": "car004", "make": "Chevrolet", "model": "Malibu", "year": 2022, "license_plate": "XYZ004", "status": "rented", "current_location": "loc001", "maintenance_history": []},
+    {"_id": "car005", "make": "Nissan", "model": "Altima", "year": 2023, "license_plate": "XYZ005", "status": "available", "current_location": "loc002", "maintenance_history": []},
+    {"_id": "car006", "make": "Hyundai", "model": "Sonata", "year": 2022, "license_plate": "XYZ006", "status": "available", "current_location": "loc003", "maintenance_history": []},
+    {"_id": "car007", "make": "Kia", "model": "Optima", "year": 2021, "license_plate": "XYZ007", "status": "rented", "current_location": "loc001", "maintenance_history": []},
+    {"_id": "car008", "make": "Tesla", "model": "Model 3", "year": 2023, "license_plate": "XYZ008", "status": "available", "current_location": "loc002", "maintenance_history": []},
+    {"_id": "car009", "make": "Subaru", "model": "Impreza", "year": 2022, "license_plate": "XYZ009", "status": "available", "current_location": "loc003", "maintenance_history": []},
+    {"_id": "car010", "make": "Toyota", "model": "Corolla", "year": 2023, "license_plate": "XYZ010", "status": "rented", "current_location": "loc001", "maintenance_history": []},
+    {"_id": "car011", "make": "Honda", "model": "Accord", "year": 2021, "license_plate": "XYZ011", "status": "available", "current_location": "loc002", "maintenance_history": []},
+    {"_id": "car012", "make": "Ford", "model": "Escape", "year": 2022, "license_plate": "XYZ012", "status": "available", "current_location": "loc003", "maintenance_history": []},
+    {"_id": "car013", "make": "Chevrolet", "model": "Cruze", "year": 2023, "license_plate": "XYZ013", "status": "rented", "current_location": "loc001", "maintenance_history": []},
+    {"_id": "car014", "make": "Nissan", "model": "Sentra", "year": 2021, "license_plate": "XYZ014", "status": "available", "current_location": "loc002", "maintenance_history": []},
+    {"_id": "car015", "make": "Hyundai", "model": "Elantra", "year": 2022, "license_plate": "XYZ015", "status": "available", "current_location": "loc003", "maintenance_history": []}
+  ]
+  

@@ -1,0 +1,12 @@
+[
+  {"_id": "cust001", "name": "Alice Johnson", "license_number": "A123456", "phone_number": "555-0101", "email": "alice@example.com", "rental_history": ["rent001", "rent002"]},
+  {"_id": "cust002", "name": "Bob Smith", "license_number": "B234567", "phone_number": "555-0202", "email": "bob@example.com", "rental_history": ["rent003"]},
+  {"_id": "cust003", "name": "Carol Taylor", "license_number": "C345678", "phone_number": "555-0303", "email": "carol@example.com", "rental_history": ["rent004", "rent005"]},
+  {"_id": "cust004", "name": "David Lee", "license_number": "D456789", "phone_number": "555-0404", "email": "david@example.com", "rental_history": ["rent006"]},
+  {"_id": "cust005", "name": "Eva Green", "license_number": "E567890", "phone_number": "555-0505", "email": "eva@example.com", "rental_history": ["rent007", "rent008"]},
+  {"_id": "cust006", "name": "Frank Moore", "license_number": "F678901", "phone_number": "555-0606", "email": "frank@example.com", "rental_history": ["rent009"]},
+  {"_id": "cust007", "name": "Grace Hall", "license_number": "G789012", "phone_number": "555-0707", "email": "grace@example.com", "rental_history": ["rent010", "rent011"]},
+  {"_id": "cust008", "name": "Henry Adams", "license_number": "H890123", "phone_number": "555-0808", "email": "henry@example.com", "rental_history": ["rent012"]},
+  {"_id": "cust009", "name": "Ivy Brown", "license_number": "I901234", "phone_number": "555-0909", "email": "ivy@example.com", "rental_history": ["rent013", "rent014"]},
+  {"_id": "cust010", "name": "Jack Clark", "license_number": "J012345", "phone_number": "555-1010", "email": "jack@example.com", "rental_history": ["rent015"]}
+]

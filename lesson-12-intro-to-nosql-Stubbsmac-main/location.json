@@ -1,0 +1,6 @@
+[
+    {"_id": "loc001", "name": "Main Street Branch", "address": "123 Main St, Anytown, USA", "manager": "Jane Doe", "inventory": ["car001", "car004", "car007", "car010", "car013"]},
+    {"_id": "loc002", "name": "Airport Branch", "address": "100 Airport Rd, Anytown, USA", "manager": "John Doe", "inventory": ["car002", "car005", "car008", "car011", "car014"]},
+    {"_id": "loc003", "name": "Suburban Branch", "address": "456 Suburb Ave, Anytown, USA", "manager": "Emily Ross", "inventory": ["car003", "car006", "car009", "car012", "car015"]}
+  ]
+  

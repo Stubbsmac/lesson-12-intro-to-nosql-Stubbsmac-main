@@ -1,0 +1,23 @@
+[
+    {"_id": "rent001", "car_id": "car001", "customer_id": "cust001", "start_date": "2024-07-01", "end_date": "2024-07-03", "price_per_day": 25, "total_cost": 75, "status": "completed"},
+    {"_id": "rent002", "car_id": "car002", "customer_id": "cust001", "start_date": "2024-07-04", "end_date": "2024-07-06", "price_per_day": 35, "total_cost": 105, "status": "active"},
+    {"_id": "rent003", "car_id": "car003", "customer_id": "cust002", "start_date": "2024-07-07", "end_date": "2024-07-09", "price_per_day": 30, "total_cost": 90, "status": "reserved"},
+    {"_id": "rent004", "car_id": "car004", "customer_id": "cust003", "start_date": "2024-07-10", "end_date": "2024-07-12", "price_per_day": 40, "total_cost": 120, "status": "completed"},
+    {"_id": "rent005", "car_id": "car005", "customer_id": "cust003", "start_date": "2024-07-13", "end_date": "2024-07-15", "price_per_day": 45, "total_cost": 135, "status": "active"},
+    {"_id": "rent006", "car_id": "car006", "customer_id": "cust004", "start_date": "2024-07-16", "end_date": "2024-07-18", "price_per_day": 50, "total_cost": 150, "status": "reserved"},
+    {"_id": "rent007", "car_id": "car007", "customer_id": "cust005", "start_date": "2024-07-19", "end_date": "2024-07-21", "price_per_day": 55, "total_cost": 165, "status": "completed"},
+    {"_id": "rent008", "car_id": "car008", "customer_id": "cust005", "start_date": "2024-07-22", "end_date": "2024-07-24", "price_per_day": 60, "total_cost": 180, "status": "active"},
+    {"_id": "rent009", "car_id": "car009", "customer_id": "cust006", "start_date": "2024-07-25", "end_date": "2024-07-27", "price_per_day": 65, "total_cost": 195, "status": "reserved"},
+    {"_id": "rent010", "car_id": "car010", "customer_id": "cust007", "start_date": "2024-07-28", "end_date": "2024-07-30", "price_per_day": 70, "total_cost": 210, "status": "completed"},
+    {"_id": "rent011", "car_id": "car011", "customer_id": "cust007", "start_date": "2024-08-01", "end_date": "2024-08-03", "price_per_day": 75, "total_cost": 225, "status": "active"},
+    {"_id": "rent012", "car_id": "car012", "customer_id": "cust008", "start_date": "2024-08-04", "end_date": "2024-08-06", "price_per_day": 80, "total_cost": 240, "status": "reserved"},
+    {"_id": "rent013", "car_id": "car013", "customer_id": "cust009", "start_date": "2024-08-07", "end_date": "2024-08-09", "price_per_day": 85, "total_cost": 255, "status": "completed"},
+    {"_id": "rent014", "car_id": "car014", "customer_id": "cust009", "start_date": "2024-08-10", "end_date": "2024-08-12", "price_per_day": 90, "total_cost": 270, "status": "active"},
+    {"_id": "rent015", "car_id": "car015", "customer_id": "cust010", "start_date": "2024-08-13", "end_date": "2024-08-15", "price_per_day": 95, "total_cost": 285, "status": "reserved"},
+    {"_id": "rent016", "car_id": "car001", "customer_id": "cust002", "start_date": "2024-08-16", "end_date": "2024-08-18", "price_per_day": 100, "total_cost": 300, "status": "completed"},
+    {"_id": "rent017", "car_id": "car002", "customer_id": "cust004", "start_date": "2024-08-19", "end_date": "2024-08-21", "price_per_day": 105, "total_cost": 315, "status": "active"},
+    {"_id": "rent018", "car_id": "car003", "customer_id": "cust006", "start_date": "2024-08-22", "end_date": "2024-08-24", "price_per_day": 110, "total_cost": 330, "status": "reserved"},
+    {"_id": "rent019", "car_id": "car004", "customer_id": "cust008", "start_date": "2024-08-25", "end_date": "2024-08-27", "price_per_day": 115, "total_cost": 345, "status": "completed"},
+    {"_id": "rent020", "car_id": "car005", "customer_id": "cust010", "start_date": "2024-08-28", "end_date": "2024-08-30", "price_per_day": 120, "total_cost": 360, "status": "active"}
+  ]
+  
